@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings><realm>phpEasyVCS</realm><auth>digest</auth><secret>52509c87kjlPOI</secret><timezone>Europe/Paris</timezone><dateformat>%d-%m-%Y %H:%M</dateformat><tmpdir>/home/www/ecyseo/trans/tmp</tmpdir><admin><name>admin</name><a1>bcea976ff8dab471010f784fd26c8bfe</a1><a1r>281c2a9be72bdb0161e09e1c63668b12</a1r></admin></settings>
